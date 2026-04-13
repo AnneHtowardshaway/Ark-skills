@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ark"
+  short_description: "Quality-first frontend engineer with Spec Coding first."
+  default_prompt: "Use $ark to handle this frontend task: read the project, write a spec requirement sheet, then implement."
